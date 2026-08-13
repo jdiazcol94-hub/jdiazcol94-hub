@@ -22,3 +22,8 @@
 ---
 
 🖊️**Always learning, always improving.**
+
+#### :zap: Mi actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
