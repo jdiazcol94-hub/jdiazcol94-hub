@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     name: Update Profile README
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4.2.2
       
