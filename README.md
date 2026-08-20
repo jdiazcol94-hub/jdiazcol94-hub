@@ -1,10 +1,12 @@
 # 🙋‍♂️Hi, I'm Juan Diaz!
 
-👨‍🎓 I'm studying **Computeer engineering**.
+👨‍🎓 **Computeer Engineering Student**
 
-💻 I'm interested in **Software development** and currently improving my skills through university and personal projects.
+I'm currently studying Computer Engineering at UOC, with a background in C, C++ and Java. I'm developing my skills in web development, databases and backend development through hands-on projects and continuous learning.
 
-## 🛠️ Tecnologies & Tools
+🚀 Currently focused on building projects and growing as a software developer.
+
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -13,25 +15,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+### 🧠 Knowledge
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Graph Algorithms
+
 ### 📚Currently learning
 
-- Git & GitHub
+- Web Development
 - Software Development
-- Data structures & Algorithms
+- Backend Development
 
 ---
 
 🖊️**Always learning, always improving.**
-
-#### :zap: Mi actividad reciente
-<!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/jdiazcol94-hub/miTercerRepo/issues/1) in [jdiazcol94-hub/miTercerRepo](https://github.com/jdiazcol94-hub/miTercerRepo)<br>
-2. ❗️ Opened issue [#1](https://github.com/jdiazcol94-hub/miTercerRepo/issues/1) in [jdiazcol94-hub/miTercerRepo](https://github.com/jdiazcol94-hub/miTercerRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [jdiazcol94-hub/jdiazcol94-hub](https://github.com/jdiazcol94-hub/jdiazcol94-hub)<br>
-4. ⬆️ Pushed undefined commit(s) to [jdiazcol94-hub/jdiazcol94-hub](https://github.com/jdiazcol94-hub/jdiazcol94-hub)<br>
-5. ⬆️ Pushed undefined commit(s) to [jdiazcol94-hub/jdiazcol94-hub](https://github.com/jdiazcol94-hub/jdiazcol94-hub)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 20th, 2026, 2:09:59 PM
-<!--RECENT_ACTIVITY:last_update_end-->
